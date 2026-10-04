@@ -1,0 +1,19 @@
+# Mono & Co.
+
+> Digital marketing and design studio based in Islamabad, Pakistan, working with clients worldwide (UK, EU, US and Gulf hours). Founded and led by Aun, a creative developer.
+
+## Services
+- Graphic design: visual systems, social creatives and print
+- Branding: logos, identities and brand guidelines
+- Web design: modern layouts designed around the brand and its customers
+- Development: fast, responsive websites and web apps (React, Node.js)
+- Ads & campaigns: paid social and search campaigns
+- Posters: event, product and campaign posters for print and social
+
+## Contact
+- WhatsApp: +92 314 6226432 (https://wa.me/923146226432)
+- Email: aun949871@gmail.com
+
+## Links
+- Website: https://mono-and-co.vercel.app/
+- Founder portfolio: https://aunportfolio.vercel.app/

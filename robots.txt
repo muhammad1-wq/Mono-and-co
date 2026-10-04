@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /brand/logo-concepts.html
+
+Sitemap: https://mono-and-co.vercel.app/sitemap.xml
